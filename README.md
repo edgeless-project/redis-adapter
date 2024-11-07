@@ -15,7 +15,7 @@ Configuration
 Update the script if necessary to match your Redis and Elasticsearch configurations:
 
 Redis is expected to be running locally on 127.0.0.1:6379
-Elasticsearch is configured to connect to https://edgeless1.iit.cnr.it:9200 with basic authentication (test/test).
+Elasticsearch endpoint url and credentials are provided to TID. If any partner wishes to try the adapter please contact me (Panagiotis Antoniou - AEGIS) to provide you with the credentials.  
 You can change the following parameters directly in the script to suit your environment:
 
 python
